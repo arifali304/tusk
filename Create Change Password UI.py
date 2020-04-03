@@ -13,3 +13,7 @@ def shape():
     arif_turtle.forward(100)
 for turtle in range(9):
     shape()
+
+    
+    
+    thanks :)
