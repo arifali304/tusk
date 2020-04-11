@@ -14,7 +14,12 @@ def shape():
 for turtle in range(9):
     shape()
 
+
+    a=1
+    b=2
+    z=a+b
+    print(z)
+
     Final Copy()
-    
-    
     thanks :)
+ 
