@@ -22,4 +22,8 @@ for turtle in range(9):
 
     Final Copy()
     thanks :)
- 
+
+
+ if (a >b)
+    print(a)
+
