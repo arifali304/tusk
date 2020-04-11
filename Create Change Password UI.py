@@ -17,3 +17,6 @@ for turtle in range(9):
     
     
     thanks :)
+
+ if (a >b)
+    print(a)
